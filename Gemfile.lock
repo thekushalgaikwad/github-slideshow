@@ -277,6 +277,7 @@ DEPENDENCIES
   github-pages (>= 207)
   html-proofer (>= 3.13.0)
   tzinfo-data
-
+  dependency-name: addressable
+  dependency-type: indirect
 BUNDLED WITH
    2.2.9
